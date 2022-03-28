@@ -1,0 +1,29 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/SVITDigitalSolutions/atocatl/main/images/atocatl-icon.png",
+        "url_png_logo": "https://raw.githubusercontent.com/SVITDigitalSolutions/atocatl/main/images/atocatl-logo.png",
+        "location": "Aztlan, Earth",
+        "social": {
+            "twitter_handle": "atocatl",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "956968455616200745",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "SVIT Digital Solutions, LLC",
+            "addr": "",
+            "city": "WY",
+            "country": "United States of America",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "Tlahtoani Atocatl",
+            "server": "Small solar-powered nodes. Carbon-offset for backup cloud-based nodes.",
+            "company": "Proponent of decentralization and equity"
+        }
+    }
+}
