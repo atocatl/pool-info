@@ -4,7 +4,7 @@
         "url_png_logo": "https://raw.githubusercontent.com/SVITDigitalSolutions/atocatl/main/images/atocatl-logo.png",
         "location": "Aztlan, Earth",
         "social": {
-            "twitter_handle": "atocatl",
+            "twitter_handle": "@atocatl",
             "telegram_handle": "",
             "facebook_handle": "",
             "youtube_handle": "",
@@ -13,9 +13,9 @@
             "github_handle": ""
         },
         "company": {
-            "name": "SVIT Digital Solutions, LLC",
+            "name": "",
             "addr": "",
-            "city": "WY",
+            "city": "",
             "country": "United States of America",
             "company_id": "",
             "vat_id": ""
