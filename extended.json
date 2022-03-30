@@ -21,9 +21,9 @@
             "vat_id": ""
         },
         "about": {
-            "me": "Tlahtoani Atocatl",
-            "server": "Small solar-powered nodes. Carbon-offset for backup cloud-based nodes.",
-            "company": "Proponent of decentralization and equity"
+            "me": "Atocatl Stake Pool. Single-operator Cardano stake pool focused on decentralization, equity, and the environment.",
+            "server": "Nodes running on solar-powered mini PCs. Carbon-offsets for backup cloud-based nodes.",
+            "company": "Proponent of decentralization, equity, and the environment."
         }
     }
 }
